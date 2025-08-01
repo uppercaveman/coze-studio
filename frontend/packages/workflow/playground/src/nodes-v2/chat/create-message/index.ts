@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- 
 /** Create message node */
 
 export { CREATE_MESSAGE_NODE_REGISTRY } from './node-registry';

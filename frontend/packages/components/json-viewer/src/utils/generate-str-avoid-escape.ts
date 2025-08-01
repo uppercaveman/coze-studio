@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- 
 // Text in the object to avoid characters being translated
 export const generateStrAvoidEscape = (str: string) => {
   const characters = {

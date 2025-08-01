@@ -13,6 +13,5 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- 
 // Coze's channel ID, in some scenarios, needs to be written dead and passed to the backend
 export const COZE_CONNECTOR_ID = '10000010';
