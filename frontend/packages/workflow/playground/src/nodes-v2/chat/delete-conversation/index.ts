@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
- 
 /** Delete session node */
 
 export { DELETE_CONVERSATION_NODE_REGISTRY } from './node-registry';

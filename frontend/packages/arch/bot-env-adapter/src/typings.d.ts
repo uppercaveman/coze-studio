@@ -15,7 +15,7 @@
  */
 /* eslint-disable */
 /* prettier-ignore */
-// Automatically generated based on src/index.ts, do not modify manually 
+// Automatically generated based on src/index.ts, do not modify manually
 declare const APP_ID: number;
 declare const APP_KEY: string;
 declare const AWEME_ORIGIN: string;
@@ -24,7 +24,15 @@ declare const AWEME_PLATFORM_ID: number;
 declare const BOT_BRAND_NAME: string;
 declare const BUILD_BRANCH: string;
 declare const BUILD_TYPE: 'local' | 'online' | 'offline' | 'test';
-declare const BYTE_UPLOADER_REGION: 'cn-north-1' | 'us-east-1' | 'ap-singapore-1' | 'us-east-red' | 'boe' | 'boei18n' | 'US-TTP' | 'gcp';
+declare const BYTE_UPLOADER_REGION:
+  | 'cn-north-1'
+  | 'us-east-1'
+  | 'ap-singapore-1'
+  | 'us-east-red'
+  | 'boe'
+  | 'boei18n'
+  | 'US-TTP'
+  | 'gcp';
 declare const CARD_BUILDER_ENV_STR: string;
 declare const CDN: string | undefined;
 declare const CDN_PATH_PREFIX: string;
