@@ -61,7 +61,6 @@ cozeServer:
     LOG_LEVEL: "debug"
     MAX_REQUEST_BODY_SIZE: "1073741824"
     STORAGE_TYPE: "minio"
-    STORAGE_BUCKET: "opencoze"
     MINIO_PROXY_ENDPOINT: ":8889"
     USE_MINIO_PROXY: "true"
     COZE_MQ_TYPE: rmq
